@@ -1,0 +1,15 @@
+Definiendo conceptos:
+*Variables: Es una forma de guardar informacion que despues puedo utilizar a traves de un codigo, este codigo de acceso es el nombre de la variable.
+En JavaScript la forma de crear una variable es: var nombreVariable = "Info que quiero guardar en la variable"
+
+*String: Un string es un caracter o cadena de caracteres que va delimitada por comillas. ej, "Hola Mundo"
+
+*Funciones (argumentos, `return`): Las funciones son instrucciones que se escriben dentro de un programa, suelen utilizarse para tareas repetitivas
+para no tener que escribir las mismas instrucciones cada vez que necesitemos realizar alguna actividad.
+Los argumentos son variables que nombramos al llamar la funcion, para que estas la tengan en cuenta a la hora de realizar las instrucciones indicadas previamente.
+Return una parte que se utiliza dentro de las funciones para que estas devuelvan algun tipo de dato, dato que nosotros especificamos dentro de la funcion.
+
+*Declaraciones If: es una condicion que le ponemos a nuestras funciones para que desarrollen o no ciertas instrucciones, los if pueden tomar dos valores, Verdadero
+o Falso. Y podemos anidar varios if para nuestras funciones. si condicion = verdadera {// desarrolla estas instrucciones}, si condicion = falsa {// desarrolla estas otras instrucciones}
+
+*Valores booleanos: es un valor que puede tener dos resultados, verdadero o falso y se utilizan para hacer condiciones dentro de nuestro programa.
