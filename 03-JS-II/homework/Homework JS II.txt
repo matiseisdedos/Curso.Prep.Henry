@@ -1,0 +1,11 @@
+Conceptos:
+*FOR: Es una estructura que evalua una condicion para seguir determinadas instrucciones hasta que esa condicion se cumpla
+
+*&&: Es un elemento que sirve para hacer que dos o mas condiciones se cumplan al mismo tiempo. condicion1 && condicion2 deben cummplirse para que se realice una accion
+si una de las dos condiciones no se cumple hace falso toda la declaracion
+
+*||: Es un elemento para verificar que al menos una de las condiciones planteadas sea verdad, si en una serie de condiciones que se plantean con || es verdadera, 
+hace que toda la declaracion se transforme en verdadera
+
+*!: Este signo se utiliza para negar, significa NOT, y cambia el sentido de una declaracion cuando se utiliza. Ej. !true = falso,
+!false = verdadero; 
