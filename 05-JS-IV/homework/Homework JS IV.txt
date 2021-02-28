@@ -1,0 +1,20 @@
+* Objetos:
+Un objeto es una coleccion de propiedades, estas propiedades pueden ser muchas sobre un mismo objeto tambien se las llama keys,
+y se asocian con un value (valor). Son contenedores de informacion sobre una cosa especifica.
+
+* Propiedades
+Una propiedad un tipo de informacion que queremos guardar sobre un elemento
+Un ejemplo seria: En el objeto auto guardo la propiedad "Color" y dentro de esta propiedad almaceno la informacion sobre el
+color del auto en cuestion.
+
+* Métodos:
+Los metodos son funciones que estan almacenadas dentro de un objeto
+
+* Bucle `for…in`
+Es un bucle creado con la finalidad de recorrer todas las claves de un objeto 
+
+* Notación de puntos vs notación de corchetes
+La notacion de puntos o notacion DOT, es una forma de acceder a las propiedades de un objeto de manera rapida, es una forma
+de escritura literal por lo que no se puede utilizar variables para acceder a una propiedad.
+La notacion de corchetes es otra de las formas de acceder a las propiedades de un objeto y dentro de esta manera de acceso,
+podemos utilizar variables si quisieramos para acceder a alguna propiedad del objeto.
