@@ -1,0 +1,8 @@
+* Prototype 
+Al crear un objeto en JS este tiene aparte otro objeto llamado prototype es una fuente de propiedades alternativas
+si una propiedad no se encuentra definida dentro del objeto, este objeto procede a buscar si esta se encuentra dentro del
+prototipo y en caso de que exista la aplica.
+
+* Constructors 
+El metodo constructor de clases es un metodo especial para crear e inicializar un objeto creado con una clase
+Solo puede haber un metodo especial con el nombre 'constructor' en una clase
