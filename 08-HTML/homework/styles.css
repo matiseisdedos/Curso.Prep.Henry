@@ -1,0 +1,30 @@
+h1{
+    color: teal;
+}
+img{
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+
+    background-color: seagreen;
+
+    padding: 50px;
+    border: 10px solid black;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+div{
+    display: flex;
+    margin: 0 auto;
+}
+.divClass{
+    justify-content: center;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
